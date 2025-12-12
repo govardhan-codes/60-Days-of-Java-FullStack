@@ -1,0 +1,6 @@
+Day 06 — Collections Framework (List & Set)
+
+Learned ArrayList, LinkedList, HashSet, LinkedHashSet, TreeSet.
+Practiced add, remove, traversal, and understood ordering & performance differences.
+
+#100DaysOfCode #Java #Collections #DSA
