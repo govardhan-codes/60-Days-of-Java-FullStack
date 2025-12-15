@@ -1,0 +1,10 @@
+import java.util.*;
+
+public class StreamBasics {
+    public static void main(String[] args) {
+        List<Integer> list = Arrays.asList(1,2,3,4,5);
+
+        list.stream()
+            .forEach(System.out::println);
+    }
+}
