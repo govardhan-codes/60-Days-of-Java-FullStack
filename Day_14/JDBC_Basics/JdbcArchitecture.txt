@@ -1,0 +1,21 @@
+JDBC ARCHITECTURE
+
+Java Application
+       |
+       v
+JDBC API (java.sql package)
+       |
+       v
+JDBC Driver (Type 4 - MySQL Driver)
+       |
+       v
+Database (MySQL)
+
+----------------------------------
+
+JDBC Components:
+1. DriverManager – Manages database drivers
+2. Connection – Establishes connection with database
+3. Statement – Executes SQL queries
+4. ResultSet – Stores query result
+5. SQLException – Handles database errors
